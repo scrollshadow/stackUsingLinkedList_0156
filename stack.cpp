@@ -92,7 +92,7 @@ int main()
         switch (choice)
         {
         case 1:
-            cout << "nter the value to push: ";
+            cout << "Enter the value to push: ";
             cin >> value;
             stack.push(value);
             break;
