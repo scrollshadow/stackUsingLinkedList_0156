@@ -106,7 +106,7 @@ int main()
             cout << "exiting program." << endl;
             break;
         default:
-            cout << "nvalid choice. try again." << endl;
+            cout << "Invalid choice. try again." << endl;
             break;
         }
 
