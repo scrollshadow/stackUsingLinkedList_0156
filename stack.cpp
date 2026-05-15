@@ -85,7 +85,7 @@ int main()
         cout << "1. Push\n";
         cout << "2. Push\n";
         cout << "3. Push\n";
-        cout << "4. Push\n";
+        cout << ". Push\n";
         cout << "Enter your choice: ";
         cin >> choice;
 
